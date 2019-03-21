@@ -23,3 +23,5 @@ unity+androidEnviroment
  *控制面板>网络和internet>代理可以改.
 
 4.unity内部BuildSetting切换到安卓平台，PlayerSetting里设置好公司和项目名称，输入密码（密码必须记下来）,Build And Run。
+
+5.横屏竖屏：portrait:竖屏。
