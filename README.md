@@ -14,9 +14,9 @@ unity+androidEnviroment
  *添加JAVA_HOME：C:\Program Files\Java\jdk1.8.0_201。Path:(最后加上)%JAVA_HOME%\bin（或者）还有%JAVA_HOME%\jre\bin(必要时加上分号分隔)。
  *windows+r:cmd>java -version检验安装是否成功。
  
-2,入手安卓：分别下载android studio和android sdk。
+2,入手安卓：分别下载android studio和android sdk。【SDK Tools??】
 下载网站(不可翻墙选择)：http://www.androiddevtools.cn/
-安装android studio的时候只安装andriod studio（不用安装安卓模拟器），然后解压android sdk到E:\SDK\android\目录下 .最后打开SDK manager即可,下载组件。按教程勾选,第一个tools勾选前三个，API勾选最新，Extras全选。
+安装android studio的时候只安装andriod studio（不用安装安卓模拟器）【解压即安装好Studio】，然后解压android sdk到E:\SDK\android\目录下 .最后打开SDK manager即可,下载组件。按教程勾选,第一个tools勾选前三个，API勾选最新，Extras全选。
 最后下载ndk，解压到E:\SDK\android\
 3.最后打开Unity设置安卓sdk和ndk即可。
 /*不要使用代理上网，否则登录不了unity.
