@@ -6,7 +6,8 @@ unity+androidEnviroment
 
 首先，下载Unity并安装，c盘够大就装c，勾选上ios和android选项。然后开始下载安装。
 搭建android环境：
-1，现在sun官网下载最新javaJDK。JDK文件是.exe结尾的，要符合操作系统。安装时在默认C盘建立目录；要记住这个目录。像C:\Program Files\Java\jdk1.8.0_201。安装完成后配置环境。
+1，【新版的unity有内嵌的jdk】
+现在sun官网下载最新javaJDK。JDK文件是.exe结尾的，要符合操作系统。安装时在默认C盘建立目录；要记住这个目录。像C:\Program Files\Java\jdk1.8.0_201。安装完成后配置环境。
 /*SDK是包含JRE的
  *下载JDK的网址：http://www.oracle.com/technetwork/java/javase/downloads/index.html.
  *注意下载的是java sdk而不是orcale sdk额。
